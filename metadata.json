@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Code Synthesizer",
+  "description": "An automated tool that uses Gemini to analyze multiple Python files for best practices and then synthesizes them into a single, cohesive script.",
+  "requestFramePermissions": []
+}
